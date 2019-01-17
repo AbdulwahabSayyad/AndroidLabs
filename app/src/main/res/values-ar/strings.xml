@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">معمل 1</string>
+    <string name="app_name">معمل 2</string>
     <string name="hello_message">أهلاً يا عالم!</string>
-    <string name="ButtonText">أنا زر</string>
+    <string name="ButtonText">زر</string>
+    <string name="MyWidgets">ها هي ادواتي:</string>
+    <string name="checkThisOut">جرب هذا!</string>
+    <string name="switchOnOff">محول تشغيل/ايقاف</string>
+    <string name="typeAnswer">ادخل جوابك هنا</string>
 </resources>
