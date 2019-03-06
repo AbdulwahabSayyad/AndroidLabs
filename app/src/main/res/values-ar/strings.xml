@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">معمل 2</string>
+    <string name="app_name">4</string>
     <string name="hello_message">أهلاً يا عالم!</string>
     <string name="ButtonText">زر</string>
     <string name="MyWidgets">ها هي ادواتي:</string>
     <string name="checkThisOut">جرب هذا!</string>
     <string name="switchOnOff">محول تشغيل/ايقاف</string>
     <string name="typeAnswer">ادخل جوابك هنا</string>
+    <string name="emailAddress">أدخل ايميلك:</string>
+    <string name="typeEmail">أكتب ايميلك هنا:</string>
+    <string name="typePassword">أكتب كلمة السر:</string>
+    <string name="login">دخول</string>
+    <string name="yourProfile">بروفايلك</string>
+    <string name="yourName">اسمك:</string>
+    <string name="enterName">أدخل اسمك</string>
+    <string name="yourEmail">إيميلك:</string>
+    <string name="enterEmail">أدخل إيميلك</string>
+    <string name="picture">صورة</string>
+    <string name="clickButton">اضغط الزر اعلاه لأخذ صورة</string>
+    <string name="gotochat">اذهب الى الدردشة</string>
+    <string name="send">ارسل</string>
+    <string name="receive">استلم</string>
+    <string name="typehere">اكتب هنا</string>
 </resources>

@@ -1,10 +1,25 @@
 <resources>
-    <string name="app_name">Lab2</string>
+    <string name="app_name">Lab4</string>
     <string name="hello_message">Hello World!</string>
     <string name="ButtonText">Button</string>
     <string name="MyWidgets">Here are my widgets:</string>
     <string name="checkThisOut">Check this out!</string>
     <string name="switchOnOff">Switch on / off</string>
     <string name="typeAnswer">Type your answer in here</string>
+    <string name="emailAddress">Enter your email address:</string>
+    <string name="typeEmail">Type your email here</string>
+    <string name="typePassword">Type your password:</string>
+    <string name="login">Login</string>
+    <string name="yourProfile">Your profile</string>
+    <string name="yourName">Your name:</string>
+    <string name="enterName">Enter your name</string>
+    <string name="yourEmail">Your email:</string>
+    <string name="enterEmail">Enter your email</string>
+    <string name="picture">Picture</string>
+    <string name="clickButton">Click the button above to take a picture</string>
+    <string name="gotochat">Go to chat</string>
+    <string name="send">Send</string>
+    <string name="receive">Receive</string>
+    <string name="typehere">Type here</string>
 
 </resources>
