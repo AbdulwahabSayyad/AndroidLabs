@@ -50,6 +50,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/gotochat"/>
+        <Button
+            android:id="@+id/goToToolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gototoolbar"/>
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>

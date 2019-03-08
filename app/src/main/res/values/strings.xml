@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab4</string>
+    <string name="app_name">Lab6</string>
     <string name="hello_message">Hello World!</string>
     <string name="ButtonText">Button</string>
     <string name="MyWidgets">Here are my widgets:</string>
@@ -21,5 +21,16 @@
     <string name="send">Send</string>
     <string name="receive">Receive</string>
     <string name="typehere">Type here</string>
-
+    <string name="gototoolbar">Go to Toolbar page</string>
+    <string name="discord">Discord</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="music">Music</string>
+    <string name="league">League</string>
+    <string name="initialMessage">This is the initial message</string>
+    <string name="whatisthemessage">What is your new message?</string>
+    <string name="yes">Yes</string>
+    <string name="goback">Go back?</string>
+    <string name="cancel">Cancel</string>
+    <string name="nochanges">No changes were made</string>
+    <string name="clickedonoverflow">You clicked on the overflow menu</string>
 </resources>

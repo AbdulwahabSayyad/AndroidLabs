@@ -22,4 +22,17 @@
     <string name="send">ارسل</string>
     <string name="receive">استلم</string>
     <string name="typehere">اكتب هنا</string>
+    <string name="gototoolbar">اذهب الى القائمة</string>
+    <string name="discord">دسكورد</string>
+    <string name="pokemon">بوكيمون</string>
+    <string name="music">موسيقى</string>
+    <string name="league">ليغ</string>
+    <string name="initialMessage">هذه الرسالة الأصلية</string>
+    <string name="whatisthemessage">ما هي رسالتك؟</string>
+    <string name="yes">نعم</string>
+    <string name="goback">رجوع؟</string>
+    <string name="cancel">إلغاء</string>
+    <string name="nochanges">لم يحدث أي تغيير</string>
+    <string name="clickedonoverflow">تم ضغط خيار مخفي</string>
+
 </resources>
