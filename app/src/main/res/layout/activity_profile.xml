@@ -55,6 +55,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/gototoolbar"/>
+        <Button
+            android:id="@+id/goToWeatherForecast"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gotoweatherforecast"/>
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>

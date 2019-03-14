@@ -33,4 +33,9 @@
     <string name="cancel">Cancel</string>
     <string name="nochanges">No changes were made</string>
     <string name="clickedonoverflow">You clicked on the overflow menu</string>
+    <string name="gotoweatherforecast">Go to Weather Forecast</string>
+    <string name="currenttemp">Current temp: </string>
+    <string name="mintemp">Min temp: </string>
+    <string name="maxtemp">Max temp: </string>
+    <string name="uvrating">UV Rating: </string>
 </resources>

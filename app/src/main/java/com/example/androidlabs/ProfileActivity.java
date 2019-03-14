@@ -42,6 +42,13 @@ public class ProfileActivity extends AppCompatActivity {
             Intent toToolbarPage = new Intent(ProfileActivity.this, TestToolbar.class);
             startActivity(toToolbarPage);
         });
+
+        Button goToWeatherForecast = findViewById(R.id.goToWeatherForecast);
+        goToWeatherForecast.setOnClickListener(btn -> {
+
+            Intent toWeatherForecast = new Intent(ProfileActivity.this, WeatherForecast.class);
+            startActivity(toWeatherForecast);
+        });
     }
 
     private void dispatchTakePictureIntent() {
