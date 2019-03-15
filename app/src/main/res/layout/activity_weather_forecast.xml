@@ -33,7 +33,15 @@
             android:layout_height="wrap_content"
             android:gravity="fill"
             android:text="@string/maxtemp"/>
-        <TextView android:layout_width="match_parent"
+        <TextView
+            android:id="@+id/windspeed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="fill"
+            android:text="@string/windspeed"/>
+        <TextView
+            android:id="@+id/uvrating"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="fill"
             android:text="@string/uvrating"/>

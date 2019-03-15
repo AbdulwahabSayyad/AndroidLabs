@@ -38,4 +38,5 @@
     <string name="mintemp">Min temp: </string>
     <string name="maxtemp">Max temp: </string>
     <string name="uvrating">UV Rating: </string>
+    <string name="windspeed">Wind speed: </string>
 </resources>

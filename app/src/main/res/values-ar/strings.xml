@@ -34,10 +34,11 @@
     <string name="cancel">إلغاء</string>
     <string name="nochanges">لم يحدث أي تغيير</string>
     <string name="clickedonoverflow">تم ضغط خيار مخفي</string>
-    <string name="gotoweatherforecast">Go to Weather Forecast</string>
-    <string name="currenttemp">Go to Weather Forecast</string>
-    <string name="mintemp">Go to Weather Forecast</string>
-    <string name="maxtemp">Go to Weather Forecast</string>
-    <string name="uvrating">Go to Weather Forecast</string>
+    <string name="gotoweatherforecast">الذهاب إلى توقعات الطقس</string>
+    <string name="currenttemp">درجة الحرارة الحالية:</string>
+    <string name="mintemp">درجة الحرارة الدنيا:</string>
+    <string name="maxtemp">درجة الحرارة القصوى:</string>
+    <string name="uvrating">تصنيف الأشعة:</string>
+    <string name="windspeed">سرعة الرياح: </string>
 
 </resources>
